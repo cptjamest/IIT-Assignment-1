@@ -1,12 +1,25 @@
 body {
   
 background-color: lightblue;
+  
+  p.a {
+  text-align-last: right;
+}
 
-.center {
-  margin: auto;
-  width: 50%;
-  border: 3px solid green;
-  padding: 10px;
-  }
+p.b {
+  text-align-last: center;
+}
+
+p.c {
+  text-align-last: justify;
+}
+  
+  p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
   
 }
