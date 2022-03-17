@@ -1,6 +1,8 @@
 body {
   
 background-color: lightblue;
+
+color: FFEC01;
   
   p {
   border: 2px solid red;
@@ -10,17 +12,14 @@ background-color: lightblue;
   
 h1 {
   text-align: center;
-  color: FFEC01;
   }
   
 h2 {
   text-align: center;
-  color: FFEC01;
   }
 
 p {
   text-align: center;
-  color: FFEC01;
 }
 
   
