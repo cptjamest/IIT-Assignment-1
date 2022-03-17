@@ -1,20 +1,23 @@
 body {
   
-background-color: black;
+background-color: light blue;
   
   
 h1 {
   text-align: center;
+  background-color: light blue;
   color: yellow;
   }
   
   h2 {
   text-align: center;
+  background-color: light blue;
   color: yellow;
   }
 
 p {
 text-align: center;
+background-color: light blue;
 color: yellow;
 }
 
