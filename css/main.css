@@ -2,17 +2,7 @@ body {
   
 background-color: lightblue;
   
-  p.a {
-  text-align-last: right;
-}
-
-p.b {
-  text-align-last: center;
-}
-
-p.c {
-  text-align-last: justify;
-}
+text-align: center;
   
   p {
   margin-top: 100px;
