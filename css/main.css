@@ -5,20 +5,17 @@ background-color: light blue;
   
 h1 {
   text-align: center;
-  background-color: light blue;
   color: FFEC01;
   }
   
-  h2 {
+h2 {
   text-align: center;
-  background-color: light blue;
   color: FFEC01;
   }
 
 p {
-text-align: center;
-background-color: light blue;
-color: FFEC01;
+  text-align: center;
+  color: FFEC01;
 }
 
   
