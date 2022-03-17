@@ -1,9 +1,4 @@
 body {
-  background-color: black;
-  color: yellow;
-}
-
-p {
-  border: 2px solid red;
-  border-radius: 5px;
+  background-color: lightgrey;
+  color: blue;
 }
