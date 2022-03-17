@@ -1,6 +1,11 @@
 body {
   
-background-color: light blue;
+background-color: lightblue;
+  
+  p {
+  border: 2px solid red;
+  border-radius: 5px;
+}
   
   
 h1 {
